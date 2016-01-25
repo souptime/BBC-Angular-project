@@ -1,0 +1,9 @@
+<div class="word-list clearfix">
+	<ul>
+		<li ng-repeat="word in words | orderBy:'word'">
+			<a href="" ng-click="chooseWord(word);yupNope.isSelected=!yupNope.isSelected" class="btn btn-default beer-button" ng-class="(yupNope.isSelected==true) ? 'selected' : ''">{{word}}</a>
+		</li>
+
+	</ul>
+</div>
+<a href="#/beer-result" class="btn btn-success get-beer" ng-click="saveChoices()">Get beer <span class="fa fa-beer"></span></a>

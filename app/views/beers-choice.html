@@ -1,0 +1,15 @@
+<div class="beers-choice">
+<div class="col-md-8">
+	<h2>{{beer.name}}</h2>
+	<div class="beer-choice-heading">Type</div> 
+	<div class="beer-choice-content">{{beer.beerStyle}}</div> 
+	<div class="beer-choice-heading">Alcohol</div> 
+	<div class="beer-choice-content">{{beer.abv * 100 | number:1}}%</div> 
+
+	<div class="beer-choice-heading">Beer words</div>
+	<div class="beer-choice-content" ng-repeat="word in beer.words">{{word}}</div>
+</div>
+<div class="col-md-4">
+	<img ng-src="{{beer.imageUrl}}">
+</div>	
+</div>

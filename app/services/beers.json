@@ -1,0 +1,167 @@
+[{
+	"id": "1",
+	"name": "Westvleteren 12 (XII)",
+	"beerStyle": "Trappist",
+	"country": "Belgium",
+	"abv": "0.102",
+	"brewtime": "10",
+	"words": [
+		"bouncy", "chewy", "zing"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_4934.jpg"
+}, {
+	"id": "2",
+	"name": "Three Floyds Wiseblood",
+	"beerStyle": "Stout",
+	"hop": "Saaz",
+	"abv": "0.086",
+	"brewtime": "7",
+	"words": [
+		"zing", "shadowy", "fudge", "BOOM!"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_388940.jpg"
+}, {
+	"id": "3",
+	"name": "3 Fonteinen Framboos (Framboise)",
+	"hop": "Saaz",
+	"beerStyle": "Fruit",
+	"abv": "0.06",
+	"brewtime": "12",
+	"words": [
+		"shadowy", "solar", "fudge", "frescita"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_12514.jpg"
+}, {
+	"id": "4",
+	"name": "Cantillon Blåbær Lambik",
+	"hop": "Challenger",
+	"beerStyle": "Ale",
+	"abv": "0.05",
+	"brewtime": "5",
+	"words": [
+		 "zing", "shadowy"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_66438.jpg"
+}, {
+	"id": "5",
+	"name": "Goose Island Pere Jacques",
+	"hop": "Golding",
+	"beerStyle": "IPA",
+	"abv": "0.087",
+	"brewtime": "7",
+	"words": [
+		"zing", "BOOM!"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_24619.jpg"
+}, {
+	"id": "6",
+	"name": "Sierra Nevada Ovila Dubbel",
+	"hop": "Golding",
+	"beerStyle": "Stout",
+	"abv": "0.075",
+	"brewtime": "7",
+	"words": [
+		"chewy", "bouncy", "zing"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_141010.jpg"
+}, {
+	"id": "7",
+	"name": "Lagunitas India Pale Ale",
+	"hop": "Golding",
+	"beerStyle": "IPA",
+	"abv": "0.062",
+	"brewtime": "7",
+	"words": [
+		"love", "BOOM!"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_6887.jpg"
+}, {
+	"id": "8",
+	"name": "2 Row Random IPA",
+	"hop": "Golding",
+	"beerStyle": "IPA",
+	"abv": "0.087",
+	"brewtime": "7",
+	"words": [
+		"bouncy", "frescita", "love"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_342515.jpg"
+}, {
+	"id": "9",
+	"name": "Thornbridge American Wheat Ale",
+	"hop": "Golding",
+	"beerStyle": "Wheat",
+	"abv": "0.067",
+	"brewtime": "7",
+	"words": [
+		"journey", "guinea pig", "shadowy"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_335724.jpg"
+}, {
+	"id": "10",
+	"name": "Random Tandem",
+	"hop": "Golding",
+	"beerStyle": "IPA",
+	"abv": "0.065",
+	"brewtime": "7",
+	"words": [
+		"love", "guinea pig"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_280129.jpg"
+}, {
+	"id": "11",
+	"name": "Lanes Random Pale Ale",
+	"hop": "Golding",
+	"beerStyle": "Pale ale",
+	"abv": "0.087",
+	"brewtime": "7",
+	"words": [
+		"chewy", "guinea pig", "zing"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_310808.jpg"
+}, {
+	"id": "12",
+	"name": "Lamps Craft",
+	"hop": "Golding",
+	"beerStyle": "IPA",
+	"abv": "0.065",
+	"brewtime": "7",
+	"words": [
+		"zing", "journey", "frescita"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_200552.jpg"
+}, {
+	"id": "13",
+	"name": "Aecht Schlenkerla Helles Lagerbier",
+	"hop": "Golding",
+	"beerStyle": "Helles",
+	"abv": "0.05",
+	"brewtime": "7",
+	"words": [
+		"direct", "guinea pig"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_16402.jpg"
+}, {
+	"id": "14",
+	"name": "Carsons RIPA",
+	"hop": "Golding",
+	"beerStyle": "IPA",
+	"abv": "0.056",
+	"brewtime": "7",
+	"words": [
+		"BOOM!", "frescita", "love"
+	],
+	"imageUrl": "http://res.cloudinary.com/ratebeer/image/upload/w_250,c_limit/beer_226837.jpg"
+}, {
+	"id": "15",
+	"name": "Brodie London Sour",
+	"hop": "Golding",
+	"beerStyle": "Sour",
+	"abv": "0.097",
+	"brewtime": "7",
+	"words": [
+		"solar", "fudge"
+	],
+	"imageUrl": "http://www.ratebeer.com/beer/brodies-london-sour-christmas-edition/307351/"
+}
+]

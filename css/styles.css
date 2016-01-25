@@ -1,0 +1,58 @@
+body {padding-bottom:100px;}
+a:hover, a:active, a:focus {text-decoration: none;}
+a:hover {color:#f9ee72;}
+.main-col {float:none;margin:0 auto;padding-top:20px;}
+.container-fluid {padding:0;background:#b84d45;padding-bottom:50px;}
+.lead {text-align:center;margin-top:100px;}
+.lead h2 {margin-bottom:40px;}
+h1, h2, h1 a {font-size:80px;font-family: 'Montserrat', sans-serif;color:#fff;}
+h2 {font-size:30px;}
+h3 {font-family: 'OpenSans', sans-serif;}
+.beer-list {margin-top:100px;clear:both;}
+.beers-results {text-align: center;}
+.beer-button {font-size:20px;}
+.beer-result {width:150px;display:block;float:left;background:#e9f7a8;min-height:200px;}
+.beer-result:hover {background:#b5a6e3;}
+.beer-result:hover a {color:#f9ee72;}
+.beer-result a {padding:20px;display:block;}
+.beer-result h2 {margin-top:0;}
+.beer-result-list {margin-top:40px;}
+.beer-result-list h3 {font-size:17px;margin:0;}
+.beer-filter {width:300px;padding:10px;font-size:20px;margin-top:20px;text-align:center;}
+.word-list {padding:50px 50px 20px 50px;text-align:center;}
+.beers-choice h2 {color:#000;}
+.beers-choice img {max-height:450px;}
+.beer-choice-heading {font-size:20px;font-weight:bold;}
+.beer-choice-content {font-size:16px;margin-bottom:10px;}
+li {display:block;float:left;margin-left:20px;margin-bottom:30px;}
+.get-beer {display:block;clear:both;margin-top:20px;margin:0 auto;width:200px;font-size:30px;}
+
+.btn.selected {background:#e6f25b;}
+
+.clearfix:after {
+   content: " "; 
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+@media (max-width: 767px) {
+	.beer-result {width:75%;min-height:0;}
+	.beer-filter {width:100%}
+	.beers-choice {text-align: center;}
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');    
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans-Regular.ttf') format('truetype');    
+    font-weight: normal;
+    font-style: normal;
+}
